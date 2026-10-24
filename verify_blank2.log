@@ -1,0 +1,16 @@
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:211: DeprecationWarning: go() is deprecated since version 0.80.0 and will be removed in version 0.90.0. Use push_route() instead.
+  page.go(f"/project/report/{project.id}")
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:642: DeprecationWarning: ElevatedButton is deprecated since version 0.80.0 and will be removed in version 1.0. Use Button instead.
+  ft.ElevatedButton(content="Export PDF", icon=ft.Icons.PICTURE_AS_PDF,
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:644: DeprecationWarning: ElevatedButton is deprecated since version 0.80.0 and will be removed in version 1.0. Use Button instead.
+  ft.ElevatedButton(content="Export Word", icon=ft.Icons.DESCRIPTION,
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:646: DeprecationWarning: ElevatedButton is deprecated since version 0.80.0 and will be removed in version 1.0. Use Button instead.
+  ft.ElevatedButton(content="Export CSV", icon=ft.Icons.TABLE_CHART,
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:528: DeprecationWarning: go() is deprecated since version 0.80.0 and will be removed in version 0.90.0. Use push_route() instead.
+  page.go("/")
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:214: DeprecationWarning: go() is deprecated since version 0.80.0 and will be removed in version 0.90.0. Use push_route() instead.
+  page.go(f"/project/edit/{project.id}")
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:512: DeprecationWarning: ElevatedButton is deprecated since version 0.80.0 and will be removed in version 1.0. Use Button instead.
+  ft.ElevatedButton(content="Save Project", icon=ft.Icons.SAVE, on_click=save_clicked),
+C:\Users\Lance\Desktop\Trial\project\portfolio\Project7\main.py:457: DeprecationWarning: go() is deprecated since version 0.80.0 and will be removed in version 0.90.0. Use push_route() instead.
+  page.go("/")
